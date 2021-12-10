@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vladk\OneDrive\Рабочий стол\ПГУ\3 семестр\Логика (программирование)\Лаба 7\laba 7\laba 7\Source.cpp(12,9): warning C4101: v: неиспользованная локальная переменная
+C:\Users\vladk\OneDrive\Рабочий стол\ПГУ\3 семестр\Логика (программирование)\Лаба 7\laba 7\laba 7\Source.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba 7.vcxproj -> C:\Users\vladk\OneDrive\Рабочий стол\ПГУ\3 семестр\Логика (программирование)\Лаба 7\laba 7\Debug\laba 7.exe
